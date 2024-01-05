@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-<img src="https://kalindidesai.files.wordpress.com/2018/02/baljeet-waving-gif.gif" alt="gif" width="100" height="100"/>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somemohit&label=Profile%20views&color=0e75b6&style=flat" alt="somemohit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somemohit" alt="somemohit" /></a> </p>
+
+<p align="center">
+<img src="https://kalindidesai.files.wordpress.com/2018/02/baljeet-waving-gif.gif" alt="gif" width="120" height="120"/>
+</p>
 
 - 🌱 I’m currently learning **Redux**
 
