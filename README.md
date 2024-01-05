@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somemohit&label=Profile%20views&color=0e75b6&style=flat" alt="somemohit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somemohit" alt="somemohit" /></a> </p>
-<img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe3SVy4YpZAo0vOSPQ6htVpy7Lp9C2wOlZlw&usqp=CAU)" alt="gif" width="80" height="80"/>
+<img src="https://kalindidesai.files.wordpress.com/2018/02/baljeet-waving-gif.gif" alt="gif" width="80" height="80"/>
 
 - 🌱 I’m currently learning **Redux**
 
