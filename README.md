@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohitkumardash1" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="mohitkumardash1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohit-kumar-dash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-kumar-dash/" height="30" width="40" /></a>
+<a href="https://twitter.com/mohitkumardash1" target="_blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="mohitkumardash1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-kumar-dash/" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png)" alt="https://www.linkedin.com/in/mohit-kumar-dash/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
