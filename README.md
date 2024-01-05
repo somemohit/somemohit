@@ -1,7 +1,8 @@
-  <h1 align="center">Hi 👋, I'm Mohit Kumar Dash</h1>
-  <img align="center" src="https://kalindidesai.files.wordpress.com/2018/02/baljeet-waving-gif.gif" alt="gif" width="80" height="80"/>
+<h1 align="center">Hi 👋, I'm Mohit Kumar Dash</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="center" src="https://kalindidesai.files.wordpress.com/2018/02/baljeet-waving-gif.gif" alt="gif" width="80" height="80"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somemohit&label=Profile%20views&color=0e75b6&style=flat" alt="somemohit" /> </p>
 
