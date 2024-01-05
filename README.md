@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somemohit&label=Profile%20views&color=0e75b6&style=flat" alt="somemohit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somemohit" alt="somemohit" /></a> </p>
-
+<div  style="display:flex;justify-content:space-between; align-items:center">
+<div>
 - 🌱 I’m currently learning **Redux**
 
 - 🤝 I’m looking for **new oppurtunity**
@@ -14,6 +15,9 @@
 - 💬 Ask me about **React, next, JavaScript**
 
 - 📫 How to reach me **mohitkumardash4@gmail.com**
+</div>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
