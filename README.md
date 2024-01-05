@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somemohit&label=Profile%20views&color=0e75b6&style=flat" alt="somemohit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somemohit" alt="somemohit" /></a> </p>
+<img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe3SVy4YpZAo0vOSPQ6htVpy7Lp9C2wOlZlw&usqp=CAU)" alt="gif" width="80" height="80"/>
 
 - 🌱 I’m currently learning **Redux**
 
@@ -15,7 +16,6 @@
 
 - 📫 How to reach me **mohitkumardash4@gmail.com**
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohitkumardash1" target="_blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="mohitkumardash1" height="30" width="40" /></a>
